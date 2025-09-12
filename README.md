@@ -40,5 +40,5 @@ Detect fake news using transformer-based NLP models on the ISOT and LIAR dataset
 ---
 
 ## How to Run
-- Open the notebooks `DistilBERT_ISOT_LIAR.ipynb` and `RoBERTa_LIAR.ipynb` in Kaggle or Jupyter.  
+- Open the notebooks `FakeNewsDetection-distelBERT.ipynb` and `FakeNewsDetection-roBERTa .ipynb` in Kaggle or Jupyter.  
 - Run all the cells to produce the results. 
